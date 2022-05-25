@@ -3,3 +3,4 @@ Editado por facu: Es un pokemon de hierbas.
 Trabajando con mi compañero en este pokemon.
 Esta línea laacaba de agregar Fredy Lopez para generar error en el punto 7
 Esta linea la acaba de agregar Facundo Lopez para generar error.
+Línea de Fredy para un nuevo intento.
