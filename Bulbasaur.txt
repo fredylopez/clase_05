@@ -1,2 +1,3 @@
 Pokemon Bulbasaur
 Editado por facu: Es un pokemon de hierbas.
+Esta línea laacaba de agregar Fredy Lopez para generar error en el punto 7.
